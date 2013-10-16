@@ -8,11 +8,9 @@ Exception for country Guadeloupe:
 KartographError('no features found for calculating the map bounds',)
 Exception for country French Guiana:
 KartographError('no features found for calculating the map bounds',)
+Exception for country Gibraltar:
+KartographError('no features found for calculating the map bounds',)
 Exception for country Martinique:
-KartographError('no features found for calculating the map bounds',)
-Exception for country France:
-KartographError('no features found for calculating the map bounds',)
-Exception for country Norway:
 KartographError('no features found for calculating the map bounds',)
 Exception for country Kosovo:
 KartographError('no features found for calculating the map bounds',)
@@ -25,6 +23,10 @@ KartographError('no features found for calculating the map bounds',)
 Exception for country Svalbard and Jan Mayen:
 KartographError('no features found for calculating the map bounds',)
 Exception for country Mayotte:
+KartographError('no features found for calculating the map bounds',)
+Exception for country United States Minor Outlying Islands:
+KartographError('no features found for calculating the map bounds',)
+Exception for country Tuvalu:
 KartographError('no features found for calculating the map bounds',)
 Exception for country Tokelau:
 KartographError('no features found for calculating the map bounds',)

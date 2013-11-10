@@ -1,5 +1,11 @@
+BlankMap-World6.css
+*.jpg
+
 shp/ne_*.*
 *.png
+
+vincent_map_data/
+vega/
 
 *.py[co]
 

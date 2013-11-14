@@ -1,11 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from kartograph import Kartograph
-from geonamescache import GeonamesCache
 
 K = Kartograph()
-gc = GeonamesCache()
-countries = gc.get_countries()
 
 cfg = {
     'layers': [{

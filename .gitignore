@@ -1,7 +1,7 @@
 BlankMap-World6.css
 *.jpg
 
-shp/ne_*.*
+source_data/
 *.png
 
 vincent_map_data/

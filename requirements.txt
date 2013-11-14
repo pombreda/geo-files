@@ -1,5 +1,10 @@
+Fiona==1.0.2
+PySAL==1.6.0
 PyYAML==3.10
 Shapely==1.2.18
+aggdraw==1.1-64bits
+descartes==1.0
+gcmap==0.0.3
 geonamescache==0.10
 kartograph.py==0.6.7
 lxml==3.2.3
@@ -8,5 +13,5 @@ pykml==0.1.0
 pyproj==1.9.3
 pyshp==1.2.0
 pytz==2013.7
+simplemapplot==1.0.3
 tinycss==0.3
-vincent==0.3.0

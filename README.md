@@ -3,6 +3,11 @@
 A repository of geography data including ESRI shapefiles, SVG, and JPG images
 for the world's countries and the scripts to generate these files.
 
+## Todo
+* create geojson and topojson for all countries
+* create everything for continents and world too
+* different resolutions (ne_10, ne_50, ne_110)?
+
 ## Data Sources
 
 ### Shapefiles

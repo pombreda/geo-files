@@ -3,6 +3,7 @@ PySAL==1.6.0
 PyYAML==3.10
 Shapely==1.2.18
 aggdraw==1.1-64bits
+colorbrewer==0.1.1
 descartes==1.0
 gcmap==0.0.3
 geonamescache==0.10
